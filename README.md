@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <h1 align="center">Hi 👋, I'm Tias Mondal</h1>
 <h3 align="center">A man.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tiasmondal1&label=PROFILE%20VIEWS&color=0081a8&style=round" alt="tiasmondal1" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiasmondal1&label=PROFILE%20VIEWS&color=0081a8&style=round" alt="tiasmondal1" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://twitter.com/tiasmondal1" target="blank"><img src="https://img.shields.io/twitter/follow/tiasmondal1?logo=twitter&style=for-the-badge" alt="tiasmondal1" />"TiasMondal1"</a> </p>
