@@ -21,13 +21,10 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tiasmondal1&label=PROFILE%20VIEWS&color=0081a8&style=round" alt="tiasmondal1" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://twitter.com/tiasmondal1" target="blank"><img src="https://img.shields.io/twitter/follow/tiasmondal1?logo=twitter&style=for-the-badge" alt="tiasmondal1" /></a> </p>
-
-
-<p align="left"> <a href="https://twitter.com/tiasmondal1" target="blank"><img src="https://img.shields.io/twitter/follow/tiasmondal1?logo=twitter&style=for-the-badge" alt="tiasmondal1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tiasmondal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiasmondal1" height="30" width="40" /></a>
+<a href="https://twitter.com/tiasmondal1" target="blank" style><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tiasmondal1" height="30" width="40" /></a>
 </p>
+
+<a href="https://twitter.com/tiasmondal1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="TiasMondal1" height="30" width="40" style="filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(93deg) brightness(105%) contrast(105%); vertical-align: middle;"/> <span style="color: #FFFFFF; text-decoration: none; font-size: 20px; margin-left: 10px; vertical-align: middle;">TiasMondal1</span></a>
