@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### 🧰 Languages and Tools
 
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<link rel="stylesheet" type='text/css' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
           
 
