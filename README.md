@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tias Mondal</h1>
-<h3 align="center">A man.</h3>
+<h3 align="center">Developer</h3>
 
 **`Big Data Developer`**
 
